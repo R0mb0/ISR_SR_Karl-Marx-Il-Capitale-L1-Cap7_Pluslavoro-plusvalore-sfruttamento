@@ -1,5 +1,10 @@
 # ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento)
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
+[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+
 Improving the accessibility of the ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento scanned edition (OCR, text cleanup and enhancement). 
 
 - [Original_document_link](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.istitutosvizzero.it/wp-content/uploads/2018/09/ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento.pdf&ved=2ahUKEwij5Prqs-eSAxU6_rsIHdtcIgUQFnoECGUQAQ&usg=AOvVaw3Jugsv2XzfyBNIhfJAf3Y0)
