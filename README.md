@@ -9,6 +9,17 @@
 
 Improving the accessibility of the ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento scanned edition (OCR, text cleanup and enhancement). 
 
+<div align="center">
+  <a href="http://paypal.me/R0mb0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Light.svg">
+      <img alt="Saved you time? Support the dev" src="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Default.svg">
+    </picture>
+  </a>
+</div>
+
+
 - [Original_document_link](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.istitutosvizzero.it/wp-content/uploads/2018/09/ISR_SR_Karl-Marx-Il-Capitale-L1-Cap7_Pluslavoro-plusvalore-sfruttamento.pdf&ved=2ahUKEwij5Prqs-eSAxU6_rsIHdtcIgUQFnoECGUQAQ&usg=AOvVaw3Jugsv2XzfyBNIhfJAf3Y0)
 
 ---
